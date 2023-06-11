@@ -31,7 +31,7 @@
     font-size: 48px;
     font-weight: 900;
     text-align: center;
-    color: aliceblue;
+    color:antiquewhite;
   }
   
   .team-head-text {
@@ -53,7 +53,8 @@
     padding-right: 30px;
     padding-bottom: 0px;
     padding-left: 30px;
-    background-color:rgb(92, 41, 65)
+    background-image: linear-gradient(rgb(92, 41, 65), rgb(80, 10, 43));
+    
   }
   
   .card {
@@ -66,6 +67,7 @@
     padding-right: 25px;
     padding-bottom: 30px;
     padding-left: 25px;
+    border-radius: 20px;
     background-color: bisque;
   }
   
