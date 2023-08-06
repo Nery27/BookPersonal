@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&amp;display=swap');
 
 *{
-  font-family: Nunito, sans-serif;
+  font-family: 'Nunito', sans-serif;
   margin: 0;
   border: 0;
   box-sizing: border-box;
@@ -51,7 +51,7 @@ body {
 .team-head-text {
   line-height: 50px;
   width: 100%;
-   margin-top: 10px;
+  margin-top: 10px;
   margin-right: 0px;
   margin-bottom: 50px;
   margin-left: 0px;
@@ -85,7 +85,6 @@ body {
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #8D7B68, #96ecd8);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
-
 }
 
 .card-container {
@@ -103,6 +102,7 @@ body {
   margin-left: 0px;
   font-size: 18px;
   font-weight: 800;
+  font-size: 25px;
 }
 
 .position {
